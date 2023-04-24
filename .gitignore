@@ -1,0 +1,10 @@
+.vs
+/Debug
+/Release
+/x64
+/AnimDebugger/Debug
+/AnimDebugger/Release
+/AnimDebugger/x64
+/AnimDebugger/AnimDebugger.vcxproj
+/AnimDebugger/AnimDebugger.vcxproj.user
+/AnimDebugger/AnimDebugger.vcxproj.filters
